@@ -3,7 +3,7 @@
 ## Setup environment
 ```
 python -m pip install --upgrade pip
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+py -m pip install -r requirements.txt
 ```
 
 ## Run steamlit app
