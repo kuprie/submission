@@ -1,0 +1,10 @@
+name: submission
+channels:
+  - defaults
+dependencies:
+  - streamlit==1.32.0
+  - matplotlib==3.8.3
+  - pandas==2.2.1
+  - numpy==1.26.4
+
+prefix: C:\Users\fakhr\anaconda3\envs\submission
