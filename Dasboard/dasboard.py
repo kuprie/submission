@@ -5,7 +5,7 @@ import streamlit as st
 from babel.numbers import format_currency
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
-all_df = pd.read_csv("submission\\Dataset\\all_data.csv")
+all_df = pd.read_csv("Dasboard/all_data.csv")
 
 # Fungsi untuk menampilkan plot kualitas udara tiap bulannya
 def plot_by_month(air_df):
